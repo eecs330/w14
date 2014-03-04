@@ -467,7 +467,7 @@ h3 {
 
 
 #logo {
-  background: url('./images/logo-med.png') no-repeat transparent; /* logo */
+  background: url('http://groups.northwestern.edu/wic/images/logo-med.png') no-repeat transparent; /* logo */
   height: 130px;
   width: 210px;
   /*
